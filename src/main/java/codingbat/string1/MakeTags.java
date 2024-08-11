@@ -1,4 +1,4 @@
-package Codingbat.warmup1.String1;
+package codingbat.string1;
 
 public class MakeTags {
     public String makeTags(String tag, String word) {
